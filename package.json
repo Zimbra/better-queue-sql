@@ -27,13 +27,14 @@
     "better-queue": "3.x"
   },
   "devDependencies": {
-    "better-queue-store-test": "^1.0.2",
-    "sqlite3": "^3.1.4"
+    "better-queue-store-test": "^1.0.3",
+    "mocha": "^10.0.0",
+    "sqlite3": "^5.0.8"
   },
   "dependencies": {
-    "async": "^2.0.1",
-    "extend": "^3.0.0",
-    "knex": "^0.21.5",
-    "uuid": "^3.0.0"
+    "async": "^3.2.3",
+    "extend": "^3.0.2",
+    "knex": "^2.0.0",
+    "uuid": "^8.3.2"
   }
 }
